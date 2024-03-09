@@ -20,7 +20,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ## Experiment:
 ![image](https://github.com/Mario-Viofer-J/Muttiple-capacity-with-infinite-capacity/assets/144979232/739070d9-ec04-4d11-83a3-442bad5156dd)
 
-![image](https://github.com/Mario-Viofer-J/Muttiple-capacity-with-infinite-capacity/assets/144979232/3aa5faae-8633-4a59-a8b1-dbea76ed704b)
+![image](https://github.com/Mario-Viofer-J/Muttiple-capacity-with-infinite-capacity/assets/144979232/b2d08b5e-6d3f-49f5-926d-2a397dc8b29a)
+
 
 ## Program
 NAME:MARIO VIOFER J REG NO:212223100032
